@@ -39,7 +39,7 @@ const BarChat = () => {
 
                 setChartData({
                     labels: {
-                    categories: []
+                    categories: myLabels
                 },
                 series: [
                     {
