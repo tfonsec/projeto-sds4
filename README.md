@@ -5,7 +5,7 @@
 
 https://dsvendas-tfonsec.netlify.app/
 
-DSVendas é uma aplicação full stack web construída durante a 4ª edição da **Semana DevSuperior**, evento organizado pela escola [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DSVendas é uma aplicação full stack web construída durante a 4ª edição da **Semana Spring React**, evento organizado pela escola [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em exibir um dashboard a partir de dados fornecidos por um back end construído com Spring Boot.
 
